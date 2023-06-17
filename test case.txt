@@ -1,0 +1,23 @@
+Loan Calculation App
+1. Personal Loan
+    Interest rate 8.5
+Minimum Loan Amount 1000
+Maximum Loan Amount 50000
+Min Loan Duration 1 Year
+Max Loan Duration 5 Year
+Example: 
+Loan Amount 2000
+Duration 3 Years
+Monthly Installment: 60.27 
+
+
+2. House Loan
+    Interest rate 6.5
+Minimum Loan Amount 50000
+Maximum Loan Amount 500000
+Min Loan Duration 5 Year
+Max Loan Duration 25 Year
+Example: 
+Loan Amount 100000
+Duration 10 Years
+Monthly Installment: principle(833.33) + Interest(54.16) = 887.5

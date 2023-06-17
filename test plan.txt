@@ -1,0 +1,2 @@
+Applying BVA formation for loan amount , duration and than check Stutas which is applicable for loan . 
+and calculate amount with interest. 
